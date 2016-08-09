@@ -15,3 +15,5 @@ can1 = Can.new(2)
 puts can1.price
 can1.price = 3
 puts can1.price
+
+#la vida es puta basura
